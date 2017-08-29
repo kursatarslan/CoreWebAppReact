@@ -1,1 +1,2 @@
 "# CoreWebAppReact" 
+dotnet build
